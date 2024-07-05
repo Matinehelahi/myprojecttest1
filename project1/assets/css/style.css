@@ -25,17 +25,17 @@ body{
     width: 160px;
     margin: auto;
     font-size: 25px;
-    border-bottom: 5px solid lightgray;
+    border-bottom: 5px solid rgb(176, 27, 27);
     color: #4c4d4c;
 }
 .desc{
     text-align: center;
         color: #4c4d4c;
-
+s
 }
 .social{
     height: 60px;
-    background-color: gray;
+    background-color: rgb(224, 11, 11);
     text-align: center;
 }
 .social img{
