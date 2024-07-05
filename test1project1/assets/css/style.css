@@ -1,0 +1,43 @@
+
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+    
+}
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: #fff;
+    margin: auto;
+    box-shadow:0 0 10px lightcyan;
+    border-radius: 10px;
+}
+.logo{
+    width: 150px;
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    border: 2px dotted rgb(197, 228, 239);
+    border-radius: 50%;
+    padding: 2px;
+}
+.name{
+text-align: center;
+padding: 2px;
+letter-spacing: 2px;
+text-decoration:underline solid darkcyan;
+}
+.explation{
+    text-align: center;
+
+}
+.social{
+    text-align: center;
+    background-color:darkcyan;
+
+}
+.social img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 5px;
+}
