@@ -1,0 +1,43 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+}
+ul{
+   list-style-type: none; 
+   padding: 0px;
+   margin: 0px;
+   background-color: blueviolet;
+   text-align: center;
+}
+li{
+    display: inline-block;
+
+}
+li a{
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: black;
+
+}
+li a:hover{
+    background-color: black;
+    color: blueviolet;
+}
+.section{
+    background-color: lightblue;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.section h2{
+    background-color: purple;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+p{
+    
+}
